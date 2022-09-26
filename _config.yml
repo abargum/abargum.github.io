@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Audio Examples]
-description: [Audio Examples for the paper "Differentiable All-pass Filters for Phase Response Estimation and Automatic Signal Alignment"]
+description: [Optimizing Filter Design using Deep Learning]
